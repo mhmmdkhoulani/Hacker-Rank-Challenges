@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2d Array", "2d Array\2d Array.csproj", "{F1C7B734-BD28-439A-AFCA-7FA61A1D4BAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Rotation", "Array Rotation\Array Rotation.csproj", "{ACC09A4A-89B8-4CAF-8161-922E2976ABBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C7B734-BD28-439A-AFCA-7FA61A1D4BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C7B734-BD28-439A-AFCA-7FA61A1D4BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C7B734-BD28-439A-AFCA-7FA61A1D4BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C7B734-BD28-439A-AFCA-7FA61A1D4BAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC09A4A-89B8-4CAF-8161-922E2976ABBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC09A4A-89B8-4CAF-8161-922E2976ABBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC09A4A-89B8-4CAF-8161-922E2976ABBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC09A4A-89B8-4CAF-8161-922E2976ABBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F35EF447-0EFA-4A24-9F28-47B802E30F36}
+	EndGlobalSection
+EndGlobal
