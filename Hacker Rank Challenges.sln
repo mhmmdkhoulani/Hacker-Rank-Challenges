@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Rotation", "Array Rot
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicArray", "DynamicArray\DynamicArray.csproj", "{A1D1B044-EEB0-4C4F-A4D9-84B2C27B3292}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsterNodeAtTailOfLL", "InsterNodeAtTailOfLL\InsterNodeAtTailOfLL.csproj", "{AA327C5E-ADBB-4D26-A59F-448C2362BC35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsterNodeAtTailOfLL", "InsterNodeAtTailOfLL\InsterNodeAtTailOfLL.csproj", "{AA327C5E-ADBB-4D26-A59F-448C2362BC35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNodeAtHeadOfLL", "InsertNodeAtHeadOfLL\InsertNodeAtHeadOfLL.csproj", "{CC5D79F3-6CB8-4F82-A4AC-C26B87EA8A43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertNodeAtHeadOfLL", "InsertNodeAtHeadOfLL\InsertNodeAtHeadOfLL.csproj", "{CC5D79F3-6CB8-4F82-A4AC-C26B87EA8A43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNodeAtPostionInLL", "InsertNodeAtPostionInLL\InsertNodeAtPostionInLL.csproj", "{54221D97-95C7-4E60-B452-7142555CDAC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{CC5D79F3-6CB8-4F82-A4AC-C26B87EA8A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC5D79F3-6CB8-4F82-A4AC-C26B87EA8A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC5D79F3-6CB8-4F82-A4AC-C26B87EA8A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54221D97-95C7-4E60-B452-7142555CDAC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54221D97-95C7-4E60-B452-7142555CDAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54221D97-95C7-4E60-B452-7142555CDAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54221D97-95C7-4E60-B452-7142555CDAC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
