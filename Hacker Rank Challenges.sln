@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InsertNodeAtHeadOfLL", "Ins
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertNodeAtPostionInLL", "InsertNodeAtPostionInLL\InsertNodeAtPostionInLL.csproj", "{54221D97-95C7-4E60-B452-7142555CDAC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNodeAtPositionLL", "RemoveNodeAtPositionLL\RemoveNodeAtPositionLL.csproj", "{F6792AF2-C9EA-49AF-AC78-07E054CDD07A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{54221D97-95C7-4E60-B452-7142555CDAC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54221D97-95C7-4E60-B452-7142555CDAC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54221D97-95C7-4E60-B452-7142555CDAC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6792AF2-C9EA-49AF-AC78-07E054CDD07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6792AF2-C9EA-49AF-AC78-07E054CDD07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6792AF2-C9EA-49AF-AC78-07E054CDD07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6792AF2-C9EA-49AF-AC78-07E054CDD07A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
